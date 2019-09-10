@@ -7,10 +7,17 @@ App built using NodeJS in conjucntion with Express. Pure Full-Stack Javascript u
 Users can:
 
 Login/Logout,
+
 Create/Edit/Delete a post, 
+
 Follow/Unfollow Users, 
+
 Live Search for other User Posts, 
+
 Chat amongst other Users.
+
+
+
 
 
 
