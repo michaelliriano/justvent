@@ -1,6 +1,6 @@
 # justvent
 
-A place to truly express ones feelings and beliefs. No ads. No fees. Completely free to use. The way social media was suppose to be.
+A place to truly express ones feelings and beliefs. No ads. No fees. Completely free to use. The way social media was meant to be.
 
 App built using NodeJS in conjucntion with Express. Pure Full-Stack Javascript using ES6 Syntax. Utilizing MongoDB for the Database.
 
