@@ -1,20 +1,22 @@
 # justvent
 
-A place to truly express ones feelings and beliefs. No ads. No fees. Completely free to use. The way social media was meant to be.
+A place to really express your feelings and beliefs. No ads. No fees. Completely free to use. The way social media was meant to be.
+<hr>
 
 App built using NodeJS in conjucntion with Express. Pure Full-Stack Javascript Application. Utilizing MongoDB for the Database.
 
 Users can:
+<ul>
+  <li> Login/Logout,</li>
 
-Login/Logout,
+<li>Create/Edit/Delete a post,</li> 
 
-Create/Edit/Delete a post, 
+<li>Follow/Unfollow Users, </li>
 
-Follow/Unfollow Users, 
+<li>Live Search for other User Posts, </li>
 
-Live Search for other User Posts, 
-
-Chat amongst other Users.
+<li>Chat amongst other Users.</li>
+</ul>
 
 
 
