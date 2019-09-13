@@ -3,7 +3,7 @@
 A place to really express your feelings and beliefs. No ads. No fees. Completely free to use. The way social media was meant to be.
 <hr>
 
-App built using NodeJS in conjucntion with Express. Pure Full-Stack Javascript Application. Utilizing MongoDB for the Database.
+App built using Express. Pure Full-Stack Javascript Application. Utilizing MongoDB for the Database.
 
 Users can:
 <ul>
