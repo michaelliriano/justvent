@@ -16,8 +16,3 @@ Users can:
 </ul>
 
 
-
-
-
-
-API coming soon...
